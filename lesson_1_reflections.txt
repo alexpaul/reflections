@@ -1,0 +1,22 @@
+Working with the diff command was somewhat cumbersome
+Viewing longer files would be very difficult to debug
+
+Having version history is very efficient and essential to a programmer. 
+Version control saves time esp. in larger dev teams. Even if you're a 
+solo developer Version Control is a must do 
+
+Being subjective with when to commit can be a disadvantage to the overall
+version control method since what may seem right to you to commit at that time
+may be a regret at some later time when you are looking over versions.
+The advantage in manually committing is you know exactly when you're doing the 
+process. 
+
+Git allows saving files multiple files because it's more geared to full stack 
+development as opposed to Google Docs, etc 
+
+You can use git log along with git diff to compare differences between versions and 
+what was added and deleted.
+
+My confidence is breaking code and reverting and fixing bugs using git is improving
+
+I am planning to use git forward in all my development work
