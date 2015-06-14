@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+The creates a Git Project Directory 
+This needs to happen in order for Git to start tracking files and making all 
+the version control benefits that Git provides to work
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+The staging area is where files are added to get ready for commiting
+The working directory is all files in that particular directory including untracked files
+The repo is all the files that is part of git 
+
+
+
+
