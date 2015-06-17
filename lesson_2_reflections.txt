@@ -9,6 +9,21 @@ The staging area is where files are added to get ready for commiting
 The working directory is all files in that particular directory including untracked files
 The repo is all the files that is part of git 
 
+How can you use the staging area to make sure you have one commit per logical change?
+Use git status to see what files need to be staged and make appropriate stages
 
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+In cases where you wnat to try new implementations and scenarios but you still want to have 
+current code that's up to date. Branches would help in that you can have multiple working 
+version at once to experiment with. 
 
+How do the diagrams help you visualize the branch structure?
+The series of branch/commit diagrams really did help with visualizing the branch/commit structure
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches brings their commits together and creates one branch/label. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros are you are in control with your team as to how to resolve a conflict 
+Cons an automatic merge may create new bugs
