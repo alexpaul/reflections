@@ -18,3 +18,8 @@ For offline work this is very beneficial as well.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without Git/Github collaboration could be done using email or Google Docs. 
 Git/Github is definetely easier since it's a platform build exactly for version control.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+Mostly when a new feature is being tried or bug fix. 
+
